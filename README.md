@@ -4,8 +4,7 @@ A Human-Centred AI System for Remote Primary Care & Early Warning
 
 🧠 Project Overview
 
-HCAI-Triage is a Human-Centred AI system designed to support remote health assessment, early-warning detection, and clinician-involved triage.
-It integrates multimodal data, probabilistic reasoning, sequential decision-making, preference-sensitive recommendations, and explainable AI.
+HCAI-Triage is a Human-Centred AI system designed to support remote health assessment, early-warning detection, and clinician-involved triage. It integrates multimodal data, probabilistic reasoning, sequential decision-making, preference-sensitive recommendations, and explainable AI.
 
 📄 Full Coursework Report
 
@@ -53,8 +52,7 @@ Clinician-in-the-Loop Oversight
 
 🎓 Coursework Context
 
-Created for COMM111 – Foundations of Human-Centred AI (2025/26).
-Demonstrates skills in:
+Created for COMM111 – Foundations of Human-Centred AI (2025/26). Demonstrates skills in:
 
 AI-supported HCI
 
@@ -65,9 +63,3 @@ Algorithmic reasoning (Bayes, POMDPs, MCDM)
 Ethical & responsible AI considerations
 
 Evidence-based system evaluation
-
-📬 Contact
-
-Author: Oluwaseyi Bello
-MSc Human-Centred Artificial Intelligence with Proficiency in Data Science
-University of Exeter
